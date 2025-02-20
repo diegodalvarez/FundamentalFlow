@@ -1,6 +1,13 @@
 # FundamentalFlow
 Trading the market reflexivity within ETFs. 
 
+## Writeup
+|         | PDF          |
+|----------------|---------------------|
+| Technical Writeup containing methodology & results | <a href="https://github.com/diegodalvarez/FundamentalFlow/blob/main/FundamentalFlow.pdf">![image](https://github.com/user-attachments/assets/562f57b5-639d-4b0c-9fbd-01cd22b7e469)
+
+</a> |
+
 ## Approach
 The idea behind this model is to finding trading opportunities within the dislocation of between fundamentally-priced trend and flow trend within ETF. This is done by normalizing the flow of both trends, taking the difference, and running a regression on this model.
 
